@@ -1,1 +1,1 @@
-print("Skriv dette")
+print("Skriv dette eller noget andet$")
